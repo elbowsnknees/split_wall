@@ -126,7 +126,7 @@ namespace split_Wall
                     // Set additional parameters for the wall if needed
                     //wall.get_Parameter(BuiltInParameter.WALL_HEIGHT_TYPE).Set(ElementId.InvalidElementId); // Unconnected height
                 }
-
+                // nfvsiujdnfvujsedrfgbvujhsdbfgvujhsdfujhgvbnslujdhf
                 trans.Commit();
             }
             return Result.Succeeded;

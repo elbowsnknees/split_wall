@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>SplitWallCommand</Name>
+		<Assembly>Split Wall.dll</Assembly>
+		<AddInId>
+			1683F137-0BE9-4D42-B125-CFC55CEB1EEE
+		</AddInId>
+		<FullClassName>split_Wall.SplitWall</FullClassName>
+		<Text>Split Wall</Text>
+		<Description>Split a wall to fix wall insert issue</Description>
+		<VendorId>Elliot</VendorId>
+		<VendorDescription>@Learndynamo</VendorDescription>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+</RevitAddIns>
